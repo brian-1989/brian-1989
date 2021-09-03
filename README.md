@@ -3,7 +3,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=brian-1989.brian-1989)
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/brian-1989)
-<br />
 
 ## About me:
 
