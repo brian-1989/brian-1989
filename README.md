@@ -1,4 +1,4 @@
-# Hi there 👋🏻, i am Brian Zapata
+# <p align="center">Hi there 👋🏻, i am Brian Zapata</p>
 
 <br />
 
@@ -6,11 +6,8 @@
 
 - 🔭 I’m currently studying on holberton school
 - 🌱 I’m currently learning MySQL, Python, JavaScript
-- 🤔 I’m looking for help with
-- 💬 Ask me abou
 - 📫 How to reach me: dzapata@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Stroll and discover new places
 
 <br />
 
