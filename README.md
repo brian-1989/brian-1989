@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋🏻, i am Brian Zapata</p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=brian-1989.brian-1989)
 <br />
 
 ## About me:
