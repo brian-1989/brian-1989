@@ -29,7 +29,7 @@
 
 <br />
 
-## trophy My Github Stats:
+## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-1989&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-1989&theme=tokyonight)
