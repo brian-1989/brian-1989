@@ -1,4 +1,4 @@
-# Hi there 👋, i am Brian Zapata
+# Hi there 👋🏻, i am Brian Zapata
 
 <br />
 
