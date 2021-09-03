@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying on holberton school
 - 🌱 I’m currently learning MySQL, Python, JavaScript
 - 📫 How to reach me: dzapata@gmail.com
-- ⚡ Fun fact: Stroll and discover new places
+- ⚡ Fun fact: Take a walk and discover new places ⛰ 🏕 🏖 ✈ 🛫
 
 <br />
 
