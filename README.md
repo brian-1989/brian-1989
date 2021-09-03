@@ -26,9 +26,9 @@
 <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://image.flaticon.com/icons/png/512/919/919826.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
-<br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-1989&show_icons=true&theme=tokyonight)
-<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-1989&theme=tokyonight)
 
 ## ✉️ Find me on:
