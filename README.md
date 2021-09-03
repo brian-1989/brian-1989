@@ -1,9 +1,7 @@
-### Hi there 👋, i am Brian Zapata
+# Hi there 👋, i am Brian Zapata
 
 <br />
 
-<!-- **brian-1989/brian-1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
 ## About me:
 
 - 🔭 I’m currently studying on holberton school
