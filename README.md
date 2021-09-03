@@ -12,14 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## ✉️ Find me on:
-
-<p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/briayan-exnaider-zapata-pino-087ba1141/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:dzapata@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
 <br />
 
 ## 🧰 Languages and Tools:
@@ -33,4 +25,11 @@
 <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-thumbnail.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://image.flaticon.com/icons/png/512/919/919826.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## ✉️ Find me on:
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/briayan-exnaider-zapata-pino-087ba1141/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/BrianZa03390210"> <img src="https://1000marcas.net/wp-content/uploads/2019/11/Twitter-logo-500x406.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
