@@ -27,9 +27,14 @@
 <img src="https://image.flaticon.com/icons/png/512/919/919826.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<br />
+
+## trophy My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-1989&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-1989&theme=tokyonight)
+
+<br />
 
 ## ✉️ Find me on:
 
