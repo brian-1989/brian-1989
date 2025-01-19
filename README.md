@@ -22,7 +22,7 @@
 <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQLAlchemy" height="40" style="vertical-align:top; margin:4px">
 <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-thumbnail.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="[https://image.flaticon.com/icons/png/512/919/919826.png](https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png)" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
