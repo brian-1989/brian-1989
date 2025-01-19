@@ -37,5 +37,4 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/briayan-exnaider-zapata-pino-087ba1141/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://twitter.com/BrianZa03390210"> <img src="https://1000marcas.net/wp-content/uploads/2019/11/Twitter-logo-500x406.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
