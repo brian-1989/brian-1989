@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋🏻, i am Brian Zapata</p>
+# <p align="center">Hi there 👋🏻, i am Briayan Zapata Pino</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=brian-1989.brian-1989)
 
@@ -6,8 +6,7 @@
 
 ## About me:
 
-- 🔭 I’m currently studying on holberton school
-- 🌱 I’m currently learning MySQL, Python, JavaScript
+- 🔭 I’m Backend Developer (Python)
 - 📫 How to reach me: dzapata@gmail.com
 - ⚡ Fun fact: Take a walk and discover new places ⛰ 🏕 🏖 ✈ 🛫
 
